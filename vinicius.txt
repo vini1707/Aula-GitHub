@@ -7,3 +7,10 @@ repositorio online (que esta no github) com o
 repositorio da minha máquina. 
 
 Edição realizada pelo GitHub.
+
+Comandos aprendidos na aula de hoje:
+git push -> serve para enviar os arquivos da máquina
+            local para o repositorio local
+
+git pull -> serve para atualizar o repositório local
+            com os dados do repertorio online no GitHub
